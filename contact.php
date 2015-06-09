@@ -1,4 +1,4 @@
 <?php
 
 echo 'contact';
-echo 'trang lien he';
+echo 'trang lien he hh';
